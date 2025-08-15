@@ -77,11 +77,10 @@ The questions were divided into two categories:
 ## Repository Structure
 
 Task_05_Descriptive_Stats/
-│
-├── scripts/                   # Python scripts for data processing
-├── prompts/                   # Prompt engineering examples for LLM
-├── combined_summary_stats.csv # Summary statistics file (no raw data)
-└── README.md                  # This file
+1. scripts/                   # Python scripts for data processing
+2. prompts/                   # Prompt engineering examples for LLM
+3. combined_summary_stats.csv # Summary statistics file (no raw data)
+4. README.md                  # This file
 
 
 
