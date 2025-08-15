@@ -76,7 +76,6 @@ The questions were divided into two categories:
 
 ## Repository Structure
 
-```text
 Task_05_Descriptive_Stats/
 │
 ├── scripts/                   # Python scripts for data processing
