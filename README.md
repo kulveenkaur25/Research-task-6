@@ -75,3 +75,27 @@ The questions were divided into two categories:
 ---
 
 ## Repository Structure
+
+Task_05_Descriptive_Stats/
+│
+├── scripts/ # Python scripts for data processing
+├── prompts/ # Prompt engineering examples for LLM
+├── combined_summary_stats.csv # Summary statistics file (no raw data)
+├── README.md # This file
+
+
+
+---
+
+## How to Reproduce
+1. Prepare **summary statistics** from your dataset.
+2. Create a set of **basic and advanced** questions.
+3. Feed the statistics and questions to an LLM.
+4. Record the answers and compare them against ground truth.
+5. Document results in a comparison table (as shown above).
+
+---
+
+## Author
+Kulveen Kaur – Syracuse University – Applied Data Science MS
+
