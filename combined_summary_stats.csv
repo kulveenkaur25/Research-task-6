@@ -1,0 +1,20 @@
+,0
+total_games,272
+most_touchdowns_team,MIA
+most_touchdowns_count,66
+avg_yards_per_play,3.75214008540842
+most_passing_tds_team,DAL
+most_passing_tds_count,37
+avg_yards_pass,7.226215313999583
+avg_yards_rush,4.46041710260166
+most_impactful_player,"{'TDs': {'(1:55) (SHOTGUN) 1-T.TAGOVAILOA PASS SHORT LEFT INTENDED FOR 17-J.WADDLE INTERCEPTED BY 27-J.PINNOCK (58-B.OKEREKE) AT NYG -2. 27-J.PINNOCK FOR 102 YARDS, TOUCHDOWN.': 1}, 'TotalYards': {'(1:55) (SHOTGUN) 1-T.TAGOVAILOA PASS SHORT LEFT INTENDED FOR 17-J.WADDLE INTERCEPTED BY 27-J.PINNOCK (58-B.OKEREKE) AT NYG -2. 27-J.PINNOCK FOR 102 YARDS, TOUCHDOWN.': 102}, 'ImpactScore': {'(1:55) (SHOTGUN) 1-T.TAGOVAILOA PASS SHORT LEFT INTENDED FOR 17-J.WADDLE INTERCEPTED BY 27-J.PINNOCK (58-B.OKEREKE) AT NYG -2. 27-J.PINNOCK FOR 102 YARDS, TOUCHDOWN.': 11.2}}"
+highest_avg_yards_per_play_in_wins,{}
+defense_fewest_passing_TDs,{'HOU': 18}
+quarter_highest_scoring_rate,{5: 0.029411764705882353}
+most_improved_team_half_to_half,ARI
+top_player_pct_team_TDs,"[{'OffenseTeam': 'NYJ', 'Description': '(13:39) 20-BRE.HALL RIGHT GUARD FOR 72 YARDS, TOUCHDOWN.', 'PlayerTDs': 1, 'TeamTDs': 24, 'Pct': 0.041666666666666664}]"
+defensive_focus,"{'pass_yards_allowed': np.float64(7.226215313999583), 'rush_yards_allowed': np.float64(4.46041710260166)}"
+most_efficient_red_zone_offense,{'DET': 0.07413249211356467}
+DAL_pass_TDs_plus_10pct,40.7
+most_competitive_matchup,"('IND', 'WAS')"
+best_balanced_team,NYJ
